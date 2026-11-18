@@ -1,1 +1,1 @@
-{"rewrites":[{"source":"/","destination":"/toll-map-service.html"},{"source":"/download.html","destination":"/index.html"}]}
+{"redirects":[{"source":"/","destination":"/toll-map-service.html","permanent":false}],"rewrites":[{"source":"/download.html","destination":"/index.html"}]}
